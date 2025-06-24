@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "RecipeWebapp"
+rootProject.name = "js_recipe_android_app"
 include(":app")
